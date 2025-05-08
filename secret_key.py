@@ -1,0 +1,2 @@
+openapi_key = "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"
+cohereapi_key = "sOAKZTD5JT5DU8u1Q3iLpPfHyb9Z1o9AKLsvrdOW"
